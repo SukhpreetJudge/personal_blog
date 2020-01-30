@@ -10,8 +10,8 @@ posts = [
 	},
 	{
 		'author' : 'Pajeet',
-		'post_title' : 'Mastering Cleanliness',
-		'post_body' : 'Paper is for noobs',
+		'post_title' : 'Where are the best jobs',
+		'post_body' : 'West coast',
 		'date_posted' : 'Jan 31st 2020'
 	}
 ]
